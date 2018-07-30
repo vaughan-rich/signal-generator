@@ -6,7 +6,7 @@ A signal generator written in MATLAB for a Scientific Computing module I took at
 
 # To Note
 
-This program includes both windowing in real space and the additional features of adding noise / cleaning up of a noisy wave. Both, however, cannot be done simultaneously in this version. I've built in some failsafes to prevent crashing if this is attempted, and will look to fix this in a later version.
+This program includes both windowing in real space and the additional feature of adding noise / cleaning up the noisy wave. Both, however, cannot yet be performed simultaneously. I've built in some failsafes to prevent crashing when this is attempted, but will look to fix this in a later version.
 
 # To-Do List For Future Versions
 
