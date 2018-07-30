@@ -1,6 +1,6 @@
 # Signal Generator 🎛️
 
-A signal generator built in MATLAB. The program generates and plots a sine, square or saw wave with user-defined frequency, timespan, phase and number of sample points. Simultaneously, it computes the Fourier transform of the generated wave, and calculates and plots the power spectrum of the signal. Windowing in real space is also implemented and noise can also be added to the input signal. By Fourier transforming the noisy signal and recovering the peak power frequency, the signal is 'cleaned up' and re-plotted.
+A signal generator built in MATLAB, made during a Scientific Computing module I took at university. The program generates and plots a sine, square or saw wave with user-defined frequency, timespan, phase and number of sample points. Simultaneously, it computes the Fourier transform of the generated wave, and calculates and plots the power spectrum of the signal. Windowing in real space is also implemented and noise can also be added to the input signal. By Fourier transforming the noisy signal and recovering the peak power frequency, the signal is 'cleaned up' and re-plotted.
 
 ![Screenshot](screen.png)
 
