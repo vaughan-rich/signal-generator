@@ -6,7 +6,7 @@ A signal generator built in MATLAB. The program generates and plots a sine, squa
 
 This program includes both windowing in real space and the additional features of adding noise / cleaning up of a noisy wave. Both, however, cannot be done simultaneously in this version. I've built in some failsafes to prevent crashing if this is attempted, and will look to fix this in a later version.
 
-# To Do List for Future Versions
+# To-Do List For Future Versions
 
 * Add support for windowing and adding noise at the same time.
 * Package sections of if-else logic into custom functions (or adjust altogether) for tidier, more concise and less repetitive code.
