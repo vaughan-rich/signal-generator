@@ -12,3 +12,4 @@ This program includes both windowing in real space and the additional feature of
 
 * Add support for windowing and adding noise at the same time.
 * Package sections of if-else logic into custom functions (or adjust altogether) for tidier, more concise and less repetitive code.
+* Implement in Python, as an exercise?
